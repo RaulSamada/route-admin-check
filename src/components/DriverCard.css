@@ -1,0 +1,32 @@
+.driver-card{
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-size: .8rem;
+    justify-content: space-between;
+}
+
+.driver-header{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+
+}
+
+.driver-img{
+    width: 48px;
+    height: 48px;
+    border-radius: 1000px;
+}
+
+.working{
+    background-color:#cc2e2e63 ;
+    color: red;
+    border-radius: 10%;
+}
+
+.available{
+    background-color:#37b6c156 ;
+    color: green;
+    border-radius: 10%;
+}
