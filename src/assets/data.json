@@ -5,21 +5,40 @@
       "name": "Humberto Lopez",
       "onRoad": true,
       "coordinates": [23.121251, -82.404559],
+      "route": [
+        [23.121251, -82.404559],
+        [23.122476, -82.405733],
+        [23.121838, -82.406659],
+        [23.122884, -82.407586],
+        [23.122994, -82.407454],
+        [23.123553, -82.406707],
+        [23.125178, -82.408147],
+        [23.127168, -82.405546],
+        [23.127847, -82.404694],
+        [23.128671, -82.405397],
+        [23.126654, -82.407992],
+        [23.126242, -82.407571]
+      ],
       "places": [
         {
-          "client-name": "Maria Teresa",
+          "clientName": "Maria Teresa",
           "delivery": ["pollo", "detergente"],
           "coordinates": [23.122994, -82.407454]
         },
         {
-          "client-name": "Juana Mercedes",
+          "clientName": "Juana Mercedes",
           "delivery": ["pollo", "jabón"],
           "coordinates": [23.126242, -82.407571]
         },
         {
-          "client-name": "Victor Roque",
+          "clientName": "Victor Roque",
           "delivery": ["perfume", "jabón"],
           "coordinates": [23.126778, -82.406055]
+        },
+        {
+            "clientName": "Malena Costa",
+            "delivery": ["perfume", "jabón"],
+            "coordinates": [23.1275679,-82.4064808] 
         }
       ]
     },
